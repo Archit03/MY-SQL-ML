@@ -7,6 +7,7 @@ This project combines database interaction and machine learning to analyze query
 ## Table of Contents
 
 - [Setup](#setup)
+- [Installation](#installation)
 - [Usage](#usage)
 
 ## Setup
